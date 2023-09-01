@@ -158,6 +158,10 @@ Ao longo de minha carreira, obtive algumas certificações relevantes para o mer
       <td width="20%" align="center">
         <span>Kiali</span><br><br><br>
         <img height="50px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/671898/images/6101039/kiali_logo_darkbkg_1280px.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Traefik</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg">
       </td> 
     </tr>
   </tbody>
