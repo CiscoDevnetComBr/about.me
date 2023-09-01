@@ -231,7 +231,7 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
 
 ✨ ```Atualmente, membro da comunidade DevOps for Life.```
 
-✨ ```Dedico meus estudos em implementar infraestruturas utilizando Rancher e Kubernetes(HA) em ambientes Multicloud/Multicluster. ```
+✨ ```Dedico meus estudos a implementar infraestruturas utilizando Rancher e Kubernetes(HA) em ambientes Multicloud/Multicluster. ```
 
 ![rancher-kubernetes-producao](https://user-images.githubusercontent.com/52961166/116400929-9fd20000-a7f8-11eb-8e06-fe9cf393e4a9.png)
 
