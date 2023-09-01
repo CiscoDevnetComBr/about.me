@@ -2,7 +2,7 @@
 
 ## Sobre mim... ##
 
-Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em tecnologia da Informação e comunicação. 
+Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
 </br>Especializado em infraestrutura em Redes baseadas em software (SDN) utilizando a plataforma Application Centric Infrastructure.
 
 Atuei em Diversas empresas, tais como:
