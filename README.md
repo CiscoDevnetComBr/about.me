@@ -18,7 +18,7 @@ Atuei em diversas empresas, entre elas:
 </ul>
 
 ## Cerfificações:
-Ao longo de minha carreira, obtive algumas certificações relevantes para o mercado. Segue abaixo o link do Credy:</br>
+Ao longo de minha trajetória profissional, obtive algumas certificações relevantes para o mercado. Segue abaixo o link do Credy:</br>
 <a href="https://www.credly.com/users/rodrigofreitas">[https://www.credly.com/users/rodrigofreitas](https://www.credly.com/users/rodrigofreitas/badges?sort=-state_updated_at&page=1)</a>
 
 
