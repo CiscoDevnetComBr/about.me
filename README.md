@@ -3,9 +3,7 @@
 ## Sobre mim... ##
 
 Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em tecnologia da Informação e comunicação. 
-</br>Especializado em infraestrutura em Redes baseadas em software (SDN) utilizando a plataforma Application Centric Infrastructure da Cisco. 
-
-Apaixonado por Segurança ofensiva desde muito novo. Porém hoje, dedico meus estudos à Plataform Engineering / Devops / SRE.
+</br>Especializado em infraestrutura em Redes baseadas em software (SDN) utilizando a plataforma Application Centric Infrastructure.
 
 Atuei em Diversas empresas, tais como:
 <ul>
