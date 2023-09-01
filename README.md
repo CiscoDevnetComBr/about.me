@@ -5,7 +5,7 @@
 Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
 </br>Especializado em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure.
 
-Atuei em diversas empresas, entre elas:
+Ao longo da carreira, tive oportunidade de atuar em diversas empresas, dentre elas:
 <ul>
   <li>Marinha do Brasil;</li>
   <li>Modulo Security;</li>
