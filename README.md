@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/github/license/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma?color=2b9348" alt="License Badge"/>
 </a>
 </center>
+
 ## Sobre mim... ##
 
 Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
