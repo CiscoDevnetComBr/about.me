@@ -1,5 +1,24 @@
 <h2> Olá, bem-vindos ao meu Github !!! </h2> 
-
+<center>
+<a href="http://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/stargazers">
+    <img src="https://img.shields.io/github/stars/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma" alt="Stars Badge"/>
+</a>
+<a href="https://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/network/members">
+    <img src="https://img.shields.io/github/forks/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma" alt="Forks Badge"/>
+</a>
+<a href="https://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/pulls">
+    <img src="https://img.shields.io/github/issues-pr/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma" alt="Pull Requests Badge"/>
+</a>
+<a href="https://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/issues">
+    <img src="https://img.shields.io/github/issues/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma" alt="Issues Badge"/>
+</a>
+<a href="https://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma?color=2b9348">
+</a>
+<a href="https://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma?color=2b9348" alt="License Badge"/>
+</a>
+</center>
 ## Sobre mim... ##
 
 Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
