@@ -37,7 +37,7 @@ Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas
   <li>NTT entre outras.</li>
 </ul>
 
-## Cerfificações:
+## Certificações:
 Ao longo de minha trajetória profissional, obtive algumas certificações relevantes para o mercado, conforme link abaixo:
 <a href="https://www.credly.com/users/rodrigofreitas">[https://www.credly.com/users/rodrigofreitas](https://www.credly.com/users/rodrigofreitas/badges?sort=-state_updated_at&page=1)</a>
 
