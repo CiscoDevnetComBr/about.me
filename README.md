@@ -22,7 +22,7 @@
 
 ## Sobre mim... ##
 
-Eu sou 𝔽ℝ𝔼𝕀𝕋𝔸𝕊®, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
+Eu sou Freitas, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
 </br>Especializado em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure.
 
 Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas:
@@ -128,7 +128,7 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
 </table>
 
   
-## Linguages de programação:
+## Linguages de programação / Framework:
 
 <table>
   <tbody>
@@ -136,6 +136,10 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+      </td>
+         <td width="20%" align="center">
+        <span>Django</span><br><br><br>
+        <img height="50px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
       </td>
     </tr>
   </tbody>
