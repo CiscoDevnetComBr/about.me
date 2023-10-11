@@ -32,7 +32,7 @@ Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas
   <li>Secretaria de Segurança Pública (RJ);</li>
   <li>PRODERJ;</li>
   <li>Algar Tech;</li>
-  <li>Cisco High-Touch Technical Support;</li>
+  <li>Cisco Systems;</li>
   <li>Logicalis;</li>
   <li>NTT entre outras.</li>
 </ul>
