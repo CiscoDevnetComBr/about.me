@@ -197,21 +197,13 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>GitLab</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
-      </td>
-      <td width="20%" align="center">
         <span>Jenkins</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>GitHub</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>SonarQube</span><br><br><br>
-        <img height="50px" src="https://seeklogo.com/images/S/sonarqube-logo-AF25541AAF-seeklogo.com.png">
-      </td>      
+      </td>    
       <td width="20%" align="center">
         <span>ArgoCD</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg">
@@ -232,10 +224,6 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
       <td width="20%" align="center">
         <span>Grafana</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>GrayLog</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg">
       </td>
             <td width="20%" align="center">
         <span>Elastic</span><br><br><br>
