@@ -23,7 +23,7 @@
 ## Sobre mim... ##
 
 Me chamo Rodrigo Freitas (mais conhecido como Freitas).  Sou profisional com mais de 23 (Vinte e três) anos de experiência no mercado de Tecnologia da Informação e Comunicação. 
-</br>Atualmente, sou especializado em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure, programador Python focado em ambiente web com framework Django e focado em engenharia de plataforma, SRE e DevSecOps.
+</br>Atualmente, especializado em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure, programador Python focado em ambiente web com framework Django e focado em engenharia de plataforma, SRE e DevSecOps.
 
 Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas:
 <ul>
