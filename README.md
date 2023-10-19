@@ -1,4 +1,4 @@
-<h2> Olá, bem-vindos ao meu Github !!! </h2> 
+<h2> Olá, bem-vindos ao meu GitHub !!! </h2> 
 <center>
 <a href="http://github.com/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma/stargazers">
     <img src="https://img.shields.io/github/stars/jonathanbaraldi/devopsforlife-devops-sre-engenharia-plataforma" alt="Stars Badge"/>
@@ -22,8 +22,8 @@
 
 ## Sobre mim... ##
 
-Eu sou Freitas, profisional com mais de 20 (Vinte) anos de experiência em Tecnologia da Informação e Comunicação. 
-</br>Especializado em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure.
+Me chamo Rodrigo Freitas (mais conhecido como Freitas).  Sou profisional com mais de 23 (Vinte e três) anos de experiência no mercado de Tecnologia da Informação e Comunicação. 
+</br>Atualmente, sou especializado em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure, programador Python focado em ambiente web com framework Django e focado em engenharia de plataforma, SRE e DevSecOps.
 
 Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas:
 <ul>
@@ -85,10 +85,6 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
       <td width="20%" align="center">
         <span>Ansible</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Pulumi</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/pulumiio/pulumiio-ar21.svg">
       </td>
     </tr>
   </tbody>
@@ -197,11 +193,7 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Jenkins</span><br><br><br>
-        <img height="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>GitHub</span><br><br><br>
+        <span>GitHub Actions</span><br><br><br>
         <img height="50px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
       </td>    
       <td width="20%" align="center">
@@ -240,10 +232,4 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
     </tr>
   </tbody>
 </table>
-
-✨ ```Atualmente, membro da comunidade DevOps for Life.```
-
-✨ ```Dedico meus estudos a implementar infraestruturas utilizando Rancher e Kubernetes(HA) em ambientes Multicloud/Multicluster. ```
-
-![rancher-kubernetes-producao](https://user-images.githubusercontent.com/52961166/116400929-9fd20000-a7f8-11eb-8e06-fe9cf393e4a9.png)
 
