@@ -23,7 +23,7 @@
 ## Sobre mim... ##
 
 Sou o Freitas, profisional com mais de 24 (Vinte e quatro) anos de experiência no mercado de TIC.
-</br>Atualmente, dedico o meu tempo/trabalho em Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure, sou desenvolvedor Backend na linguagem Python (com framework Django) atualmente focado em Platform Engineering, SRE e DevSecOps.
+</br>Atualmente, trabalho com Infraestrutura de Redes baseadas em Software (SDN) utilizando a plataforma Cisco Application Centric Infrastructure, também sou desenvolvedor Backend na linguagem Python (com framework Django) e no último ano, mantenho meus estudos focado em Platform Engineering, SRE e DevSecOps.
 
 Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas:
 <ul>
