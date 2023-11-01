@@ -34,7 +34,7 @@ Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas
   <li>Algar Tech;</li>
   <li>Cisco Systems;</li>
   <li>Logicalis;</li>
-  <li>NTT entre outras.</li>
+  <li>NTT Data entre outras.</li>
 </ul>
 
 ## Certificações:
