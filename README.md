@@ -35,6 +35,7 @@ Durante a carreira, tive oportunidade de atuar em diversas empresas, dentre elas
   <li>Cisco Systems;</li>
   <li>Logicalis;</li>
   <li>NTTData </li>
+  <li>NapIT </li>
   <li>...entre outras.</li>
 </ul>
 
@@ -49,9 +50,7 @@ Ao longo de minha trajetória profissional, obtive algumas certificações relev
     </br>
     Graduado em Gestão em Tecnologia da informação  (2011-2015);
     </br>
-    Graduado em Defesa Cibernética  (2020-2023);
-    </br>
-    Pós-graduando (MBA) em Liderança e Desenvolvimento de Pessoas  (2023).
+    Graduado em Defesa Cibernética  (2020-2024);
     </br>
   </em>
 </p>
